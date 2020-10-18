@@ -57,11 +57,6 @@ Nos links abaixo você encontra o layout do projeto web. Lembrando que você pre
 - Levar felicidade para o mundo! 🥳
 - Incentivar as pessoas a visitar orfanatos! 
 - Você pode criar e cadastrar orfanatos;
-- Pode marcar os dias para a visitação de orfanatos;
-  - Acessando horários e dias de funcionamento 📅,
-  - Agendar visitas,
-  - Entrar em contato via Whatsapp 📞,
-  - Ver as rotas via Google Maps 🗺
 - Navegar em diferentes guias e páginas;
 
 ----
