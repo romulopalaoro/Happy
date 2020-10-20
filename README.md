@@ -59,6 +59,7 @@ Nos links abaixo você encontra o layout do projeto web. Lembrando que você pre
 - Você pode criar e cadastrar orfanatos;
 - Navegar em diferentes guias e páginas;
 
+<<<<<<< HEAD
 ---
 
 ## Como acessar?
@@ -73,6 +74,9 @@ yarn install
 yarn dev
 - acesse a pasta "web" pelo terminal e digite:
 yarn start
+=======
+----
+>>>>>>> 59e3831d8a29dd0e6289aad40d16c3780e27f37d
 
 > Este projeto foi desenvolvido por **[@Rômulo Palaoro](https://www.linkedin.com/in/r%C3%B4mulo-palaoro-23837488/)**, com o instrutor **[@Diego Fernandes](https://github.com/diego3g)**, durante a **[Next Level Week](https://rocketseat.com.br/)** da **[Rocketseat](https://www.linkedin.com/school/rocketseat/about/)** 💜. <br>
 
